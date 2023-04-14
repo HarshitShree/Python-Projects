@@ -1,3 +1,5 @@
+#I created this project after attending my first class of python.
+
 ### It is only made for a few select colleges  ###
 print("Welcome to Delhi University akinator")
 print(" ")
